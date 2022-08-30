@@ -1,0 +1,18 @@
+{
+    "selectLibrary": ".main-child > :nth-child(integer)",
+    "viewBtn": ":nth-child(integer) > :nth-child(5) > .dropdown > .dropdown-menu > a.dropdown-item",
+    "actionDropdown": ":nth-child(integer) > :nth-child(5) > .dropdown > #dropdownMenu1 .fs-15",
+    "reportTitle": ":nth-child(integer) > :nth-child(1) > .align-items-center > .d-flex > .mb-0",
+    "reportHeader": "h1",
+    "loneReport": "#dropdownMenu1",
+    "expandedChart": ".view-chart-child",
+    "legend": ":nth-child(integer) > .d-flex > .lgd-pills",
+    "reportQuantity": ":nth-child(integer) > a > .mt-2",
+    "iconOfChart": ":nth-child(integer) > :nth-child(5) > .dropdown > .report-table-chart-icon",
+    "chartTypeIcon": ":nth-child(integer) > .chart-type",
+    "editChartBtn": ".text-underline",
+    "backBtn": ".back-btn",
+    "noBtn": ":nth-child(2) > .rl-btn",
+    "spinner": ".py-4 > .d-block > .spinner-border",
+    "cancelIcon": ".pr-5 > .material-icons"
+}
